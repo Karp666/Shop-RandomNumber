@@ -9,3 +9,5 @@ local function generateRandomNumber()
     targetNumber = math.random(1, 15) (Here you can edit the numbers that could be on the game, an simple math random between 1-15)
     creditReward = math.random(100, 300) (Here you can edit the credits reward randomly)
 end
+
+## Also the messages can be edited directly into code, just check it.
